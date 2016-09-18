@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="math">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../commons-math-2.2-src/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../commons-math-2.2-src/src/site/resources/userguide" />
+      <root url="file://$PROJECT_DIR$/../commons-math-2.2-src/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
